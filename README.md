@@ -9,7 +9,7 @@
 
 In this lesson, we'll introduce the heart of React: components. This will
 include explaining why they're important and examining a few examples. If the
-idea and application of components doesn't click immediately, _do not worry!_
+idea and application of components doesn't click immediately,react-hooks-components-basics _do not worry!_
 The different moving parts required to understand how to use them will fall into
 place as we move forward.
 
